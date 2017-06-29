@@ -32,7 +32,7 @@ variable "aws_region" {
 }
 
 variable "count" {
-  default = 5
+  default = 6
 }
 
 variable "num_webs" {
